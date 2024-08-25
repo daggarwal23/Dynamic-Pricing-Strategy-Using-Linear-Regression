@@ -6,9 +6,9 @@ This project explores a dynamic pricing strategy for cab fares using various reg
 
 The project involves:
 - **Exploring Linear Regression**: Building and validating a basic linear regression model.
-- **Applying Ridge Regression**: Implementing Ridge regression to handle multicollinearity and improve model performance.
+- - **Assumption Testing**: Verifying assumptions like multicollinearity and heteroscedasticity for linear regression.
+- **Applying Ridge Regression**: Implementing Ridge regression to improve model performance.
 - **Applying Lasso Regression**: Implementing Lasso regression to enhance model selection and regularization.
-- **Assumption Testing**: Verifying assumptions like multicollinearity and heteroscedasticity for linear regression.
 
 ### Achievements
 - **Adjusted R² of 82.3%**: Achieved this score on the test data using Ridge Regression, demonstrating the effectiveness of the model.
