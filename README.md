@@ -30,8 +30,11 @@ To run the code and reproduce the results, you'll need the following Python pack
 - `matplotlib`
 - `scikit-learn`
 - `statsmodels`
+- `seaborn`
+- `plotly`
+
 
 You can install the required packages using pip:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn statsmodels
+pip install numpy pandas matplotlib scikit-learn statsmodels seaborn plotly
