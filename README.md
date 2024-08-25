@@ -16,10 +16,10 @@ The project involves:
 ## Files in the Repository
 
 - **`data/`**: This directory contains the data file used for analysis. 
-  - `data_file.csv`: The dataset used for modeling.
+  - `dynamic_pricing.csv`: The dataset used for modeling.
 
 - **`notebooks/`**: This directory contains the Jupyter notebook file.
-  - `dynamic_pricing_analysis.ipynb`: The IPython notebook containing the analysis, model implementations, and results.
+  - `Dynamic Pricing Model Using Linear Regression.ipynb`: The IPython notebook containing the analysis, model implementations, and results.
 
 ## Requirements
 
